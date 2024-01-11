@@ -1,0 +1,938 @@
+{
+	"name": "Ole Christoffer Thorsen",
+	"about": {
+		"text": "My story you can't find in a textbook. It is very different from most other people. If you can give me a \"real\" challenge and tell me it's impossible or too hard to solve, you know how to keep a guy like me interested. With a vast knowledge about \"how shit works\" and a deep low to high level competence in IT, I am the \"Swiss Army Knife\" for your needs.<br/><br/>If you have read so far, you might be interested in who I am and what I can do. If so, you should know that I am always open to new possibilities or at least a good conversation. Meeting new people and learning new things always makes me smile."
+	},
+	"contact": {
+		"phone": "+47 929 54 051",
+		"email": "ole.thorsen@revolutary.com",
+		"linkedin": "https://www.linkedin.com/in/olethorsen",
+		"twitter": "https://twitter.com/olect",
+		"instagram": "https://instagram.com/olecth",
+		"github": "https://github.com/olect"
+	},
+	"education": [
+		{
+			"year": "1993",
+			"title": "Self taught, Autodidact",
+			"description": "Life"
+		},
+		{
+			"year": "2001",
+			"title": "General Subjects",
+			"description": "Fyllingsdalen VGS (high school)"
+		}
+	],
+	"experience": [
+		
+		{
+			"company": "ComCom AS",
+			"location": "Bergen, Norway",
+			"from": "Aug. 2006",
+			"to": "Mar. 2007",
+			"position": "Developer and DevOps",
+			"about": "A mobile phone carrier with a advertisement extension to Symbian OS for reduced prices",
+			"description": "",
+			"jobs": [
+				"Setup and maintenance of mainly Unix Servers and Oracle databases",
+				"Assisted product development for Symbian OS",
+				"Developed sales training application",
+				"Developed the company's website",
+				"Sales support"
+			],
+			"techstack": [
+				{
+					"label": "Languages",
+					"description": "C++, VB, PHP, JS, JSP, HTML, CSS"
+				},
+				{
+					"label": "Databases",
+					"description": "MySQL, MSSQL, Oracle"
+				},
+				{
+					"label": "Frameworks",
+					"description": "Qt"
+				},
+				{
+					"label": "OS",
+					"description": "Windows XP, FreeBSD, Ubuntu Linux"
+				},
+				{
+					"label": "IDE",
+					"description": "PHP Designer, Eclipse, VB6 Ide"
+				},
+				{
+					"label": "Applications",
+					"description": "Adobe Photoshop"
+				}
+			],
+			"projects": []
+		},
+		{
+			"company": "Keyteq AS",
+			"location": "Bergen, Norway",
+			"from": "Mar 2007",
+			"to": "Jul. 2009",
+			"position": "Developer",
+			"about": "A Web Development and product company, delivering custom solutions on top of the CMS KeyPublisher, ecommerce sites on KeyCommerce, and additional services like SMS gateway on KeySMS",
+			"description": "",
+			"jobs": [
+				"Developed websites and ecommerce solutions for clients",
+				"Developed custom modules and functionality",
+				"Integrated Finn.no sales-ad service with KeyPublisher",
+				"Integrated with propriatary XML-RPC lookup and registration interface for cell phone carriers",
+				"Assisted on product development: KeyPublisher (frontend)",
+				"Assisted on porting backend of KeyPublisher from PHP v3 to v4",
+				"Assisted on integration from UniMicro to KeyCommerce"
+			],
+			"techstack": [
+				{
+					"label": "Languages",
+					"description": "PHP, JS, ActionScript, HTML, CSS, LessCSS"
+				},
+				{
+					"label": "Databases",
+					"description": "MySQL"
+				},
+				{
+					"label": "Frameworks",
+					"description": "PrototypeJS, Scriptaculous, KQ, YUI"
+				},
+				{
+					"label": "OS",
+					"description": "Windows Vista, Ubuntu Linux"
+				},
+				{
+					"label": "IDE",
+					"description": "PHP Designer, Eclipse, Zend Studio"
+				},
+				{
+					"label": "Applications",
+					"description": "Adobe Photoshop & Flash"
+				}
+			],
+			"projects": [
+				{
+					"link": {
+						"href": "https://chess.no",
+						"title": "Chess.no",
+						"outdated": true
+					},
+					"description": "website and search-engine for Norway's biggest phone company"
+				},
+				{
+					"link": {
+						"href": "https://www.ekornes.com",
+						"title": "Ekornes.no"
+					},
+					"description": "world wide furniture ecommerce store"
+				},
+				{
+					"link": {
+						"href": "https://www.edbergen.no",
+						"title": "EDBergen.no",
+						"outdated": true
+					},
+					"description": "Apple certified reseller, ecommerce store and product builder"
+				},
+				{
+					"link": {
+						"href": "https://www.antidoping.no/",
+						"title": "Antidoping.no"
+					},
+					"description": "Norway's anti-doping agency, customer front, intranet and extranet solutions"
+				}
+			]
+		},
+		{
+			"company": "Webutvikler O. Thorsen",
+			"location": "Bergen/Oslo, Norway",
+			"from": "Jun 2009",
+			"to": "Oct. 2011",
+			"position": "Freelance Web Developer",
+			"about": "My own freelance venture company.",
+			"description": "After some time in the private sector, and with a dream to start something of my own, I initially reached out to partners and prospecting customers to develop great websites, webshops and custom solutions.",
+			"jobs": [
+				"Developed websites and ecommerce solutions for clients",
+				"Created custom apps and projects for customers",
+				"Collaborated with multiple big agencies on projects",
+				"Sales and marketing"
+			],
+			"techstack": [
+				{
+					"label": "Languages",
+					"description": "PHP, JS, Node, HTML, CSS, LessCSS, Objective-C, Java"
+				},
+				{
+					"label": "Databases",
+					"description": "MySQL, MongoDB, PostgreSql, SQLite"
+				},
+				{
+					"label": "Frameworks",
+					"description": "jQuery, PrototypeJS, Laravel, ZendFramework, Symfony"
+				},
+				{
+					"label": "OS",
+					"description": "OSX, Ubuntu & CentOS Linux"
+				},
+				{
+					"label": "IDE",
+					"description": "PHP Designer, SublimeText, XCode, Eclipse"
+				},
+				{
+					"label": "Applications",
+					"description": "Adobe Creative Suite"
+				}
+			],
+			"projects": [
+				{
+					"link": {
+						"href": "https://utdanning.no",
+						"title": "Utdanning.no",
+						"outdated": true
+					},
+					"description": "a collaboration together with the agency Netlife Research where I did the frontend implementation of the design."
+				},
+				{
+					"label": "BIT Teatergarasjen",
+					"description": "iOS app, to present all the coming events and accept bookings."
+				},
+				{
+					"label": "Os Sjøfront",
+					"description": "a realestate project website together with MKBergen. Developed apartment selector functionality"
+				}
+			]
+		},
+		{
+			"position": "Head of digital",
+			"company": "Alf Gundersen AS",
+			"location": "Bergen, Norway",
+			"about": "Norway's oldest and well reknowned advertisement agency.",
+			"description": "I merged my freelance business into this venture to kickstart their digital venture and to help transform a conservative traditional advertisement agency from paper to digital. I got the main responsibility to make sure they had growth within the digital space",
+			"from": "Mar. 2010",
+			"to": "Sept. 2011",
+			"techstack": [
+			{
+			  "label": "Languages",
+			  "description": "PHP, JS, C#, ASP, Node, HTML, CSS, LessCSS, SASS, Objective-C, Java"
+			},
+			{
+			  "label": "Databases",
+			  "description": "MySQL, MSSQL, MongoDB, PostgreSql, SQLite"
+			},
+			{
+			  "label": "Frameworks",
+			  "description": "jQuery, Laravel, Lumen, Silverstripe"
+			},
+			{
+			  "label": "Integrations",
+			  "description": "Navision, Carweb, Finn.no, FLIR"
+			},
+			{
+			  "label": "OS",
+			  "description": "OSX, Ubuntu Linux"
+			},
+			{
+			  "label": "IDE",
+			  "description": "SublimeText, XCode"
+			},
+			{
+			  "label": "Applications",
+			  "description": "Adobe Photoshop/Illustrator"
+			}
+			],
+			"jobs": [
+			"Developed websites, ecommerce and custom solutions for clients",
+			"Mobile application development",
+			"Management and business development",
+			"Lecturerer and speaker in schools, events and conferences"
+			],
+			"projects": [
+			{
+			  "label": "BTPuls iOS app",
+			  "description": "a regional culture app for iPhone and iPad."
+			},
+			{
+			  "label": "Sprek iOS app",
+			  "description": "a national sports tracking application with gamification principles"
+			},
+			{
+			  "label": "Diplomat iOS / Android app",
+			  "description": "a nifty tool to view how entry doors look on your house before buying"
+			},
+			{
+			  "label": "Dalen.no website",
+			  "description": "a national producer of heavy machinery"
+			},
+			{
+			  "label": "Epsis.no website",
+			  "description": "a Norwegian huge player in the integrated operations field, with specialty in the oil & gas industry"
+			},
+			{
+			  "label": "SRF Social Campaign",
+			  "description": "custom social experiment to gain subscribers with Fb integration."
+			}
+			]
+		},
+		{
+		  "position": "Head of product and development",
+		  "company": "Argo Internett AS",
+		  "location": "Bergen, Norway",
+		  "about": "A digital web company delivering a multitude of custom services and solutions",
+		  "description": "I got hunted down for this position to reform their product portfolio and help build the future of the company. Part of the company's leader group.",
+		  "from": "Oct. 2011",
+		  "to": "Feb. 2014",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "PHP, JS, C#, C++, HTML, CSS, SASS, Objective-C"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "MySQL, MSSQL, MongoDB"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "jQuery, ZF2"
+		    },
+		    {
+		      "label": "Integrations",
+		      "description": "Visma Global/Business, AIS, UniMicro"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "Windows Server, OSX, Ubuntu, RHEL, CentOS Linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText, XCode"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Adobe Photoshop/Illustrator"
+		    }
+		  ],
+		  "jobs": [
+		    "Management and business development",
+		    "Product portfolio development",
+		    "Facilitated development of custom solutions, websites, ecommerce sites",
+		    "Developed custom applications and integrations",
+		    "Solution and system architecture",
+		    "Technical due diligence in acquisitions"
+		  ],
+		  "projects": [
+		    {
+		      "label": "Argo DNA",
+		      "description": "new addition to the portfolio, CMS/Ecommerce platform, retiring the old product Argo VSL"
+		    },
+		    {
+		      "label": "Flisekompaniet B2B portal",
+		      "description": "a custom sales portal for B2B and supplychain"
+		    },
+		    {
+		      "label": "Navcom AIS Realtime",
+		      "description": "a realtime ship tracker clone of marinetraffic.com, but with AIS data gathering from receivers along the Norwegian shoreline"
+		    }
+		  ]
+		},
+		{
+		  "position": "CTO & Co-Founder",
+		  "company": "Eziteq AS",
+		  "formerly": "iTrainCRM AS",
+		  "location": "Bergen, Norway",
+		  "about": "A custom solutions company for the fitness center (gym) industry.",
+		  "description": "After many years of building a web based system for fully automated fitness centers and 24/7 self-service centers, I founded this company and commercialised the product in the Norwegian market. Sold the company in 2015.",
+		  "from": "Mar. 2014",
+		  "to": "Aug. 2015",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "PHP, JS, C#, HTML, CSS, SASS, Objective-C"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "MySQL, MSSQL, MongoDB, ElasticSearch"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "jQuery, Own, Bootstrap, Silverstripe"
+		    },
+		    {
+		      "label": "Integrations",
+		      "description": "Suprema, Zebra, Arx (ASSA Abloy), Gantner, Nets and Dibs payment solutions, CrediCare, Creno, Kredinor, Sveve, +++"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "Windows Server, OSX, Ubuntu linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText, Visual Studio, XCode"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Adobe Photoshop/Illustrator"
+		    }
+		  ],
+		  "jobs": [
+		    "Server and Hosting",
+		    "Integration with a multitude of third-party solutions and services",
+		    "Solution and system architecture",
+		    "Custom development of customer needs",
+		    "Mobile application development",
+		    "Automation",
+		    "Misc. entrepreneur related"
+		  ],
+		  "projects": [
+		    {
+		      "label": "Eziteq CRM",
+		      "description": "a white label 360 solution for running gyms and fitness centers"
+		    }
+		  ]
+		},
+		{
+		  "position": "Head of OpenSource Development",
+		  "company": "Digitroll AS",
+		  "location": "Bergen, Norway",
+		  "about": "A web/tech company delivering websites and ecommerce solutions",
+		  "description": "Started in this company with responsibility of building up the OpenSource venture with main focus on smaller clients.",
+		  "from": "Oct. 2015",
+		  "to": "Apr. 2016",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "PHP, JS, C#, HTML, CSS, SASS, Objective-C"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "MySQL, MSSQL"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "jQuery, Bootstrap, Laravel/Lumen"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "Windows, OSX, Ubuntu linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText, Visual Studio, XCode"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Adobe Photoshop/Illustrator"
+		    }
+		  ],
+		  "jobs": [
+		    "Client management and sales support",
+		    "Developed custom solutions for clients",
+		    "Business development within OpenSource",
+		    "Mobile application development",
+		    "Developed websites and ecommerce solutions for clients"
+		  ],
+		  "projects": [
+		    {
+		      "label": "Hordnesskogen iOS app",
+		      "description": "regional civil protest and sports tracking application"
+		    },
+		    {
+		      "label": "Pallion.no",
+		      "description": "website for clinical intervention in palliative care"
+		    }
+		  ]
+		},
+		{
+		  "position": "Senior Developer / Head of digital & 2IC",
+		  "company": "McCann Worldgroup AS / Craft Worldwide AS, Oslo, Norway",
+		  "about": "One of the worlds biggest advertisement and media agencies, with 23k+ employees in 120+ countries",
+		  "description": "Started as a senior developer on the Craft Worldwide production team, helping customers reach their goals and quickly got promoted to responsible for the nordic digital offering and effort, and 2IC in Craft Worldwide / Drive",
+		  "from": "May. 2016",
+		  "to": "Jun. 2017",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "PHP, JS, Node, HTML, CSS, SASS, Objective-C/Swift"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "MySQL, MSSQL, ElasticSearch, MongoDB, Firebase"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "jQuery, Bootstrap, Laravel/Lumen, AngularJS, React"
+		    },
+		    {
+		      "label": "Tools",
+		      "description": "Composer, NPM, Yarn, Bower, Gulp, Docker, Artisan, Bitbucket Pipelines"
+		    },
+		    {
+		      "label": "Integrations",
+		      "description": "Websphere Commerce, Social Fb/Ig"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "Windows, OSX, Ubuntu linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText, Visual Studio, XCode"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Adobe Photoshop/Illustrator"
+		    }
+		  ],
+		  "jobs": {
+		    "senior_dev": [
+		      "Developed websites, ecommerce and custom solutions for clients",
+		      "Mobile application development",
+		      "Digital advertisement and marketing",
+		      "Internal tool development"
+		    ],
+		    "HoD_2IC": [
+		      "Digital business development",
+		      "Sales and marketing",
+		      "Lead on digital offerings for the Nordics (Norway, Sweden, Denmark, Finland)",
+		      "Management / HR",
+		      "Solution and business architecture",
+		      "Leading digital projects for the whole group"
+		    ]
+		  },
+		  "projects": [
+		    {
+		      "label": "Apotek1.no",
+		      "description": "A big Norwegian pharmacy, built on AngularJS 2 and REST/PUBSUB with WCS"
+		    },
+		    {
+		      "label": "KLP.no",
+		      "description": "A big Norwegian bank and retirement fund, new React design and component library/framework"
+		    }
+		  ]
+		},
+		{
+		  "position": "Head of Online & Digital",
+		  "company": "Gresvig AS",
+		  "about": "Norway's biggest sports retailer, with the brands G-Sport and Intersport Norway",
+		  "description": "Got headhunted to this newly created position after BCG did an evaluation of the company to set the scope of success to 2030. My main responsibility was vertical digitalization of the company with the primary mission on improved e-commerce. Reported directly to the CEO and leader group.",
+		  "from": "Jul. 2017",
+		  "to": "Mar. 2019",
+		  "jobs": [
+		    "Digital business development",
+		    "Management and advisory",
+		    "Lead the digital task force",
+		    "Weekly reporting of findings to the CEO and leader group",
+		    "Leading teams in Lithuania"
+		  ],
+		  "initiatives": [
+		    {
+		      "label": "E-commerce transformation",
+		      "description": "Complete digital transformation of the infrastructure and backbone of the e-commerce sites, migrating to AWS and Magento 2."
+		    },
+		    {
+		      "label": "Digitalization of masterdata",
+		      "description": "Assessment, architecture, implementation and migration to AWS and Akeneo PIM."
+		    },
+		    {
+		      "label": "Enrichment",
+		      "description": "Creating a supply and partner scraping application for intelligent automated information gathering and enrichment production."
+		    },
+		    {
+		      "label": "ERP migration",
+		      "description": "Responsible for solution verification and architecture together with third-party. Development of implementation strategy together with partners."
+		    }
+		  ]
+		},
+		{
+		  "position": "Head of development",
+		  "company": "Jobzone AS, Oslo, Norway",
+		  "about": "One of Norway's biggest employeers and recruitment companies",
+		  "description": "Responsible for the company's products and leading the development team in building the backbone of the organization. Hired to re-build internal product and migrate to cloud.",
+		  "from": "Apr. 2019",
+		  "to": "Jan. 2020",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "PHP, VB6, JS, C#, HTML, CSS, SASS"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "MSSQL"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "React, Telerik"
+		    },
+		    {
+		      "label": "Tools",
+		      "description": "Composer, NPM, Docker, Pipelines, Azure DevOps, Bitbucket Pipelines"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "Windows, Ubuntu linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText, Visual Studio"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Adobe Photoshop/Illustrator"
+		    }
+		  ],
+		  "jobs": [
+		    "Management and advisory",
+		    "Lead team of developers",
+		    "Participation in related digital initiatives",
+		    "Project planning and development",
+		    "Reporting to CIO",
+		    "Solution architecture",
+		    "Infrastructure and DevOps"
+		  ]
+		},
+		{
+		  "position": "CTO",
+		  "company": "Megaflis AS, Oslo, Norway",
+		  "about": "Norway's biggest commercial retailer within bath, plumbing, household products",
+		  "description": "Responsible for e-commerce migration, internal digital products, platforms and systems and leading digital development projects and initiatives. The Covid pandemic put a stop on all projects and led to my exit of the company.",
+		  "from": "Jan. 2020",
+		  "to": "Oct. 2020",
+		  "jobs": [
+		    "Internal project management",
+		    "Leading product development",
+		    "Digital business development",
+		    "Management and advisory",
+		    "Weekly reporting to the CEO and CIO"
+		  ],
+		  "projects": [
+		    {
+		      "label": "E-commerce transformation",
+		      "description": "Started assessment, planning, projecting, and stopped because of Covid pandemic"
+		    }
+		  ]
+		},
+		{
+		  "position": "Consultant and freelancer",
+		  "company": "Thorsen Tech Consulting, Oslo, Norway",
+		  "about": "Self employed tech consultant",
+		  "description": "Working for multiple clients, helping them fulfill their customers' needs",
+		  "from": "Nov. 2020",
+		  "to": "current",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "PHP, JS, Node, HTML, CSS, SASS"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "MySQL, AWS DynamoDB, ElasticSearch"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "NextJS, React"
+		    },
+		    {
+		      "label": "Tools",
+		      "description": "Composer, NPM, Yarn, Docker, AWS, Azure DevOps, Bitbucket Pipelines"
+		    },
+		    {
+		      "label": "Integrations",
+		      "description": "WMS, Litium REST, Business Central"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "Windows, OSX, Ubuntu linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText, Visual Studio"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Adobe Photoshop/Illustrator, Adobe XD, Figma"
+		    }
+		  ],
+		  "jobs": [
+		    "Project management: Leading teams in Ukraine",
+		    "Solution architecture of integrations and custom solutions",
+		    "Full Stack Development",
+		    "Integrations"
+		  ],
+		  "projects": [
+		    {
+		      "label": "TheGreenDeal.com",
+		      "description": "A green e-commerce retailer, built on a microservice architecture in AWS with NextJS/React front"
+		    },
+		    {
+		      "label": "Sunwind",
+		      "description": "A big Norwegian retailer within the leisure segment, for cabin and house owners, e-commerce on Litum"
+		    },
+		    {
+		      "label": "Coptikk.no",
+		      "description": "One of Norway's biggest franchise retailers of glasses, built on Litium CMS"
+		    }
+		  ]
+		},
+		{
+		  "position": "Founder and CTO",
+		  "company": "Revolutary Ltd, Oslo, Norway",
+		  "about": "A startup lab and consultancy company",
+		  "description": "Started a company to realize ambitions of entrepreneurs and facilitate consultancy",
+		  "from": "Mar. 2021",
+		  "to": "current",
+		  "jobs": [
+		    "Mobile application development for iOS and Android",
+		    "Solution architecture and infrastructure development",
+		    "Management and consultancy"
+		  ],
+		  "projects": [
+		    {
+		      "label": "DINA",
+		      "description": "Mobile application, 'Über for beauticians'. In pilot stage in the US"
+		    },
+		    {
+		      "label": "Parky",
+		      "description": "Mobile application, 'AirBnb for parking', halted"
+		    },
+		    {
+		      "label": "Bilvask I Farta",
+		      "description": "Mobile car cleaning services"
+		    }
+		  ]
+		},
+		{
+		  "position": "Co-founder and CTO",
+		  "company": "Bilvask I Farta AS, Oslo, Norway",
+		  "about": "A mobile carwash franchise company",
+		  "description": "Founded the company to further develop a concept of mobile carwash services",
+		  "from": "Mar. 2022",
+		  "to": "current",
+		  "techstack": [
+		    {
+		      "label": "Languages",
+		      "description": "JS, Node, HTML, CSS, SASS, Swift"
+		    },
+		    {
+		      "label": "Databases",
+		      "description": "PostgreSQL"
+		    },
+		    {
+		      "label": "Frameworks",
+		      "description": "NextJS, React, SwiftUI"
+		    },
+		    {
+		      "label": "Tools",
+		      "description": "NPM, Yarn, Docker, Heroku, Vercel, Apollo GraphQL, Bitbucket Pipelines"
+		    },
+		    {
+		      "label": "Integrations",
+		      "description": "Vegvesen, Brreg, 1881, PowerOffice"
+		    },
+		    {
+		      "label": "OS",
+		      "description": "OSX, Ubuntu linux"
+		    },
+		    {
+		      "label": "IDE",
+		      "description": "SublimeText"
+		    },
+		    {
+		      "label": "Applications",
+		      "description": "Figma"
+		    }
+		  ],
+		  "jobs": [
+		    "Mobile application development for iOS and Android",
+		    "Development of intelligent booking solutions",
+		    "Solution architecture and infrastructure development",
+		    "Development of franchise and training portal",
+		    "Development of backoffice application for handling customer bookings"
+		  ]
+		}
+	],
+	"databases": [
+		"MySQL", "MariaDB", "MongoDB", "MSSQL", "SQLite", "PostgreSQL", "Redis", "ElasticSearch", "DB2", "Eurora", "Oracle", "DynamoDB"
+	],
+	"programmingLanguages": [
+		{
+			"languages": [
+				{
+					"percent": 0.85,
+					"description": "C#",
+					"desc": ".NET"
+				},
+				{
+					"percent": 1,
+					"description": "Swift",
+					"desc": ""
+				},
+				{
+					"percent": 1,
+					"description": "Objective-C",
+					"desc": ""
+				},
+				{
+					"percent": 0.75,
+					"description": "C++",
+					"desc": ""
+				},
+				{
+					"percent": 0.7,
+					"description": "Java",
+					"desc": "Gradle, Kotlin"
+				},
+				{
+					"percent": 1,
+					"description": "Node",
+					"desc": "NextJS, Express"
+				},
+				{
+					"percent": 0.6,
+					"description": "C",
+					"desc": ""
+				},
+				{
+					"percent": 0.5,
+					"description": "Delfi",
+					"desc": ""
+				},
+				{
+					"percent": 0.5,
+					"description": "Assembly",
+					"desc": ""
+				},
+				{
+					"percent": 0.7,
+					"description": "Visual Basic",
+					"desc": ""
+				},
+				{
+					"percent": 0.8,
+					"description": "Basic",
+					"desc": ""
+				}
+			]
+		}
+	],
+	"scriptingLanguages": [
+		{
+			"key": "frontend",
+			"title": "Front-end",
+			"languages": [
+				{
+					"percent": 1,
+					"description": "HTML, CSS",
+					"desc": "Bootstrap, Foundation"
+				},
+				{
+					"percent": 1,
+					"description": "JavaScript",
+					"desc": "React, Angular, jQuery, PrototypeJS"
+				},
+				{
+					"percent": 1,
+					"description": "Typescript",
+					"desc": ""
+				},
+				{
+					"percent": 0.9,
+					"description": "Coffeescript",
+					"desc": ""
+				},
+				{
+					"percent": 0.85,
+					"description": "Actionscript 3",
+					"desc": ""
+				},
+				{
+					"percent": 1,
+					"description": "LESS",
+					"desc": ""
+				},
+				{
+					"percent": 1,
+					"description": "SASS",
+					"desc": ""
+				}
+			]
+		},
+		{
+			"key": "backend",
+			"title": "Back-end",
+			"languages": [
+				{
+					"percent": 1,
+					"description": "PHP",
+					"desc": "Symfony, Laravel/Lumen, Zend, CakePHP, Apollo"
+				},
+				{
+					"percent": 0.7,
+					"description": "Python",
+					"desc": ""
+				},
+				{
+					"percent": 0.5,
+					"description": "Ruby",
+					"desc": ""
+				},
+				{
+					"percent": 0.85,
+					"description": "Bash",
+					"desc": ""
+				},
+				{
+					"percent": 0.6,
+					"description": "Powershell",
+					"desc": ""
+				},
+				{
+					"percent": 0.7,
+					"description": "ASP",
+					"desc": "Razor"
+				},
+				{
+					"percent": 0.5,
+					"description": "JSP",
+					"desc": ""
+				},
+				{
+					"percent": 0.7,
+					"description": "Perl",
+					"desc": ""
+				}
+			]
+		}				
+	],
+	"languages": [
+		{
+			"name": "Norwegian",
+			"percent": 1
+		},
+		{
+			"name": "Swedish",
+			"percent": 1
+		},
+		{
+			"name": "English",
+			"percent": 1
+		},
+		{
+			"name": "German",
+			"percent": 0.8
+		},
+		{
+			"name": "French",
+			"percent": 0.7
+		},
+		{
+			"name": "Russian",
+			"percent": 0.5
+		}
+	],
+	"competance": [
+		"API", "GraphQL", "Prototyping", "MVP", "E-commerce", "AWS", "Azure", "Full-stack", "Architech", "Infrastructure", "CI/CD", "Containerization", "Management", "Startup"
+	],
+	"hobbies": [
+		"RevEng", "Hacking", "Food", "Music", "Travel", "Golf", "Snowboarding"
+	]
+}

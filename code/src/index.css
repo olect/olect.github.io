@@ -1,0 +1,44 @@
+html {
+  font-size: 11px;
+}
+/*******************************************
+FONTS
+*******************************************/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
+/*******************************************
+SETTINGS
+*******************************************/
+@charset "utf-8";
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
+/*******************************************
+BODY
+*******************************************/
+body{
+  font-family: 'Open Sans', Arial, Tahoma;
+  font-weight: 400;
+  font-size: 1em;
+  color: #363636;
+  background: #ededed;
+}
+/*******************************************
+CONTAINER
+*******************************************/
+.app-header{
+  margin-top: 80px;
+  margin-bottom: 15px;
+  background: #fff;
+}
+
+a {
+  color: #49CC66;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #49CC66;
+  text-decoration: underline;
+}
